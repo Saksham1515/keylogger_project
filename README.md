@@ -1,6 +1,6 @@
 # keylogger_project
 
-##Project Structure
+## Project Structure
 ```
 keylogger_project/
 ├── app.py
